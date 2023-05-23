@@ -1,8 +1,8 @@
-### Hi there 👋
+# **Hi, I'm Ezuma Grace** 😉👩‍💻
 
 <!--
 **NazaGrace/NazaGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# **Hi, I'm Ezuma Grace** 😉👩‍💻
+
 
 ![A gif of a tech lady](https://media.giphy.com/media/wr82LOt9GX2RXc5Zf2/giphy.gif)
 
