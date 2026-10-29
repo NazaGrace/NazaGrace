@@ -1,6 +1,8 @@
+
 # Hi, I'm Grace Ezuma 👋
 
-> **AI Automation Engineer**  
+### AI Automation Engineer
+
 > *I build clarity into complex operations.*
 
 <p align="center">
@@ -11,11 +13,11 @@
 
 ## About Me
 
-I build production-ready AI systems that help businesses eliminate repetitive work, streamline operations, and scale intelligently.
+I build production-ready AI systems that eliminate repetitive work and simplify complex business operations.
 
-My work sits at the intersection of **Artificial Intelligence**, **automation**, and **business operations**, where I design intelligent workflows, AI agents, and backend integrations that solve real operational problems.
+My work combines **Large Language Models (LLMs)**, **workflow automation**, **backend engineering**, and **API integrations** to create intelligent systems that teams can rely on.
 
-I enjoy turning complex processes into simple, reliable systems.
+I enjoy turning operational complexity into elegant, scalable solutions.
 
 ---
 
@@ -39,7 +41,7 @@ I enjoy turning complex processes into simple, reliable systems.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### AI
+### Artificial Intelligence
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
@@ -57,38 +59,49 @@ I enjoy turning complex processes into simple, reliable systems.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & DevOps
+### Infrastructure
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Current Focus
+## Currently Building
 
-- 🚀 Building intelligent AI automation products
-- 🤖 Designing production-ready AI agents
-- ⚡ Automating business operations
-- 🌱 Exploring advanced agentic AI systems
-- 📖 Shipping projects and learning every day
+🦅 **Averra**
+
+An AI-powered career platform designed to help professionals navigate every stage of their career through intelligent guidance, automation, and personalized support.
 
 ---
 
-## Featured Projects
+## Current Focus
 
-- 🦅 Averra
-- 📱 Career OS
-- 🤖 AI Agent Experiments
-- ⚙️ Automation Workflows
-- 🧠 LLM Applications
+- 🤖 Designing AI agents for business operations
+- ⚡ Building workflow automation systems
+- 🧠 Exploring advanced agentic AI architectures
+- 🚀 Shipping reliable AI-powered products
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NazaGrace&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazaGrace&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NazaGrace&hide_border=true" />
+</p>
 
 ---
 
 ## Let's Connect
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/ezuma-grace-53753a214">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -102,8 +115,9 @@ I enjoy turning complex processes into simple, reliable systems.
 </a>
 
 <a href="mailto:nazagrace2952@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -115,3 +129,4 @@ I enjoy turning complex processes into simple, reliable systems.
 **Build • Automate • Scale**
 
 </div>
+````
