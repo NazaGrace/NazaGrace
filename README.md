@@ -1,20 +1,117 @@
-# **Hi, I'm Ezuma Grace** 😉👩‍💻
+# Hi, I'm Grace Ezuma 👋
 
-<!--
-**NazaGrace/NazaGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+> **AI Automation Engineer**  
+> *I build clarity into complex operations.*
 
+<p align="center">
+  <img src="https://github.com/NazaGrace/NazaGrace/blob/b81409b20404f51801d1f8350bac5da64b65b0fb/banner.png" alt="Grace Ezuma Banner" width="100%" />
+</p>
 
-![A gif of a tech lady](https://media.giphy.com/media/wr82LOt9GX2RXc5Zf2/giphy.gif)
+---
 
-## **This is Me** 🍁
-+ 😃 I am a techie and Cloud fanatic that is willing to learn from, connect and collaborate with other Cloud engineers in the tech world.
-+ 🦺 I am currently working on AWS projects to enhance my skills.
-+ 🧧 I'm also learning Cybersecurity and Cloud Security on AWS and Azure.
-+ 🎤 I am learning how to strengthen my communication and public speaking skills too.
-+ 🎆 Fun fact: I'm also an aromatherapist and a writer; I love reading, listening to music and making candles.
+## About Me
 
-## **Let's Connect**
-- [Twitter](https://twitter.com/home)
-- [LinkedIn](https://www.linkedin.com/in/ezuma-grace-53753a214)
-- [Gmail](mailto:nazagrace2952@gmail.com)
-- [Medium](https://medium.com/@qwinnazagrace)
+I build production-ready AI systems that help businesses eliminate repetitive work, streamline operations, and scale intelligently.
+
+My work sits at the intersection of **Artificial Intelligence**, **automation**, and **business operations**, where I design intelligent workflows, AI agents, and backend integrations that solve real operational problems.
+
+I enjoy turning complex processes into simple, reliable systems.
+
+---
+
+## What I Build
+
+- 🤖 AI Agents
+- ⚡ Workflow Automation
+- 🔗 API Integrations
+- 🧠 LLM Applications
+- 📊 Internal Business Systems
+- 🚀 AI-Powered Products
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+
+### Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Current Focus
+
+- 🚀 Building intelligent AI automation products
+- 🤖 Designing production-ready AI agents
+- ⚡ Automating business operations
+- 🌱 Exploring advanced agentic AI systems
+- 📖 Shipping projects and learning every day
+
+---
+
+## Featured Projects
+
+- 🦅 Averra
+- 📱 Career OS
+- 🤖 AI Agent Experiments
+- ⚙️ Automation Workflows
+- 🧠 LLM Applications
+
+---
+
+## Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ezuma-grace-53753a214">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://the-grace-ezuma.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@qwinnazagrace">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:nazagrace2952@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### *"I build clarity into complex operations."*
+
+**Build • Automate • Scale**
+
+</div>
