@@ -129,9 +129,9 @@ Whether I'm designing an AI agent, automating a workflow, or building a business
 
 ────────────────────────────
 
-"I build clarity into complex operations."
+### *"I build clarity into complex operations."*
 
-Build • Automate • Scale
+**Build • Automate • Scale**
 
 ────────────────────────────
 ````
