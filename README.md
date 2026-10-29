@@ -5,14 +5,14 @@
 > *I build clarity into complex operations.*
 
 <p align="center">
-  <img src="banner.png" alt="Grace Ezuma Banner" width="100%" />
+  <img src="https://github.com/NazaGrace/NazaGrace/blob/b03ee15b412db9c67e31ff8853e370bdf08f41a1/banner.png" alt="Grace Ezuma Banner" width="100%" />
 </p>
 
 ---
 
 ## About Me
 
-I build production-ready AI systems that eliminate repetitive work and simplify complex business operations.
+I build production-ready AI systems that simplify complex business operations through intelligent automation.
 
 My work combines **Large Language Models (LLMs)**, **workflow automation**, **backend engineering**, and **API integrations** to create intelligent systems that teams can rely on.
 
@@ -30,8 +30,15 @@ I enjoy turning operational complexity into elegant, scalable solutions.
 - 🚀 AI-Powered Products
 
 ---
+## Engineering Principles
 
-## Tech Stack
+- Build for reliability before complexity.
+- Automate repetitive work.
+- Design with people in mind.
+- Ship practical solutions that create measurable value.
+
+---
+## Core Technologies
 
 ### Languages
 
@@ -71,7 +78,7 @@ I enjoy turning operational complexity into elegant, scalable solutions.
 
 🦅 **Averra**
 
-An AI-powered career platform designed to help professionals navigate every stage of their career through intelligent guidance, automation, and personalized support.
+Averra is an AI-powered career platform that helps professionals navigate every stage of their career through intelligent guidance, automation, and personalized support. This platform combines AI, automation, and thoughtful design to help professionals grow with confidence.
 
 ---
 
@@ -88,7 +95,7 @@ An AI-powered career platform designed to help professionals navigate every stag
 
 I believe technology should reduce complexity—not create it.
 
-Whether I'm building an AI agent, an automation workflow, or a business system, my goal is always the same:
+Whether I'm designing an AI agent, automating a workflow, or building a business system, my goal remains the same:
 
 > Build systems that make work simpler, faster, and more reliable.
 
@@ -120,9 +127,11 @@ Whether I'm building an AI agent, an automation workflow, or a business system, 
 
 <div align="center">
 
-### *"I build clarity into complex operations."*
+────────────────────────────
 
-**Build • Automate • Scale**
+"I build clarity into complex operations."
 
-</div>
+Build • Automate • Scale
+
+────────────────────────────
 ````
