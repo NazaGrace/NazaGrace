@@ -1,4 +1,3 @@
-
 # Hi, I'm Grace Ezuma 👋
 
 ### AI Automation Engineer
@@ -36,43 +35,31 @@ I enjoy turning operational complexity into elegant, scalable solutions.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+Python • JavaScript • TypeScript • SQL
 
 ### Artificial Intelligence
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+OpenAI • Gemini • Groq
 
 ### Automation
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge)
+n8n • REST APIs • Webhooks
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+FastAPI • Supabase • PostgreSQL
 
 ### Infrastructure
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Microsoft Azure • Docker • Git • GitHub
 
 ---
 
 ## Currently Building
 
-🦅 **Averra**
+### 🦅 Averra
 
-An AI-powered career platform designed to help professionals navigate every stage of their career through intelligent guidance, automation, and personalized support.
+An AI-powered career platform helping professionals navigate every stage of their career through intelligent guidance, automation, and personalized support.
 
 ---
 
@@ -85,16 +72,13 @@ An AI-powered career platform designed to help professionals navigate every stag
 
 ---
 
-## GitHub Stats
+## Philosophy
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NazaGrace&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazaGrace&layout=compact&hide_border=true" />
-</p>
+I believe technology should reduce complexity—not create it.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NazaGrace&hide_border=true" />
-</p>
+Whether I'm building an AI agent, an automation workflow, or a business system, my goal is always the same:
+
+> Build systems that make work simpler, faster, and more reliable.
 
 ---
 
